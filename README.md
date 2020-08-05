@@ -1,28 +1,6 @@
 # Helloworld
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Personal Statement
 
   I have always been fascinated by the power of artificial intelligence and technology. I really like computers and visiting websites. So, I want to study Information Technology at RMIT University. 
