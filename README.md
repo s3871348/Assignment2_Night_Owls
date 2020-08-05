@@ -1,6 +1,2 @@
-# Helloworld
-
-
-Personal Statement
-
- Adana Ankara
+# COSC1078-BasicTemplate
+COSC1078 - BasicTemplate for student use.
