@@ -1,2 +1,2 @@
-# COSC1078-BasicTemplate
-COSC1078 - BasicTemplate for student use.
+Hello World
+This is my new project.
