@@ -1,2 +1,3 @@
-Hello World
-This is my new project.
+Assignment2_Night_Owls
+This is a group project.
+
